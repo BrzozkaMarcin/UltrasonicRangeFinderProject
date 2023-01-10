@@ -4,4 +4,8 @@ Celem projektu było zaprojektowanie układu do pomiarów odległości. Pomiar d
   
   
 Wykonany prototyp:  
-<img src="./img/img1.jpg" width="100" height="100">
+<img src="./img/img1.jpg" width="800" height="500">  
+  
+<img src="./img/img2.jpg" width="500" height="800">  
+  
+<img src="./img/img2.jpg" width="500" height="800">  
