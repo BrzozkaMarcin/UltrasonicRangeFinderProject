@@ -8,4 +8,4 @@ Wykonany prototyp:
   
 <img src="./img/img2.jpg" width="500" height="800">  
   
-<img src="./img/img2.jpg" width="500" height="800">  
+<img src="./img/img3.jpg" width="500" height="800">  
